@@ -9,7 +9,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d60ed05b-ed09-4feb-8265-607959c73784" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.cs8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cs8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs8/Input.cs" beforeDir="false" afterPath="$PROJECT_DIR$/cs8/Input.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs8/ParentChildren.cs" beforeDir="false" afterPath="$PROJECT_DIR$/cs8/ParentChildren.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cs8/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/cs8/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs8/SiteData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/cs8/SiteData.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +30,9 @@
     <setting file="file://$PROJECT_DIR$/cs8/Input.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/cs8/SiteData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="381BDdlTgONjxU9BBliLOsvycVc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,6 +45,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -58,10 +62,8 @@
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="ENV_FILE_PATHS" value="" />
       <option name="REDIRECT_INPUT_PATH" value="" />
-      <option name="PTY_MODE" value="Auto" />
       <option name="MIXED_MODE_DEBUG" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
@@ -85,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1767957080199</updated>
       <workItem from="1767957081795" duration="7267000" />
+      <workItem from="1768208034936" duration="5051000" />
     </task>
     <servers />
   </component>
