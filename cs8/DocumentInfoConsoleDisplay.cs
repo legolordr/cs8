@@ -1,6 +1,6 @@
 namespace cs8;
 
-public class ParentChildren
+public class DocumentInfoConsoleDisplay
 {
     public static void PrintId(Root json)
     {

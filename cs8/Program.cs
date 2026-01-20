@@ -31,7 +31,7 @@ while (!cts.IsCancellationRequested)
         };
 
         Console.WriteLine(JsonSerializer.Serialize(json, options));
-        ParentChildren.PrintId(json!);
+        DocumentInfoConsoleDisplay.PrintId(json!);
     }
     catch (OperationCanceledException)
     {
