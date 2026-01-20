@@ -1,10 +1,8 @@
-using System.Text.Json;
-
 namespace cs8;
 
 public class ParentChildren
 {
-    public static void PrintId(SiteData json)
+    public static void PrintId(Root json)
     {
         if (!string.IsNullOrWhiteSpace(json.ParentId)) Console.WriteLine($"ParentId:{json.ParentId}");
         else Console.WriteLine("Parental documents do not exist");
@@ -17,8 +15,7 @@ public class ParentChildren
             Console.WriteLine("Name : Id");
             foreach (var child in json.Children)
             {
-                var childInfo = JsonSerializer.Deserialize<Dictionary<string, object>>(child.ToString()!);
-                Console.WriteLine($"{childInfo!["name"]} : {childInfo!["id"]}");
+                Console.WriteLine($"{child.Name} : {child.Id}");
             }
         }
     }

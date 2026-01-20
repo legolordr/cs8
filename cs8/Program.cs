@@ -19,10 +19,11 @@ while (!cts.IsCancellationRequested)
     try
     {
         Console.WriteLine("To exit, press Ctrl + C");
-        string id = Input.InputId();
-
+        
+        string? id = Input.InputId();
+       
         CreationUrl url = new CreationUrl(id);
-        var json = await http.GetFromJsonAsync<SiteData>(url.FullUrl, cts.Token);
+        var json = await http.GetFromJsonAsync<Root>(url.FullUrl, cts.Token);
         var options = new JsonSerializerOptions
         {
             WriteIndented = true,

@@ -9,10 +9,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d60ed05b-ed09-4feb-8265-607959c73784" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.cs8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cs8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs8/Input.cs" beforeDir="false" afterPath="$PROJECT_DIR$/cs8/Input.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs8/ParentChildren.cs" beforeDir="false" afterPath="$PROJECT_DIR$/cs8/ParentChildren.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs8/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/cs8/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs8/SiteData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/cs8/SiteData.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,24 +34,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.cs8.executor": "Run",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.cs8.executor&quot;: &quot;Run&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="cs8" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -87,7 +83,8 @@
       <option name="presentableId" value="Default" />
       <updated>1767957080199</updated>
       <workItem from="1767957081795" duration="7267000" />
-      <workItem from="1768208034936" duration="5051000" />
+      <workItem from="1768208034936" duration="5477000" />
+      <workItem from="1768227624726" duration="927000" />
     </task>
     <servers />
   </component>
